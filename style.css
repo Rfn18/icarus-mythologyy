@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(255, 251, 228);
+}
+h1 {
+  color: rgb(206, 196, 152);
+}
+p {
+  font-size: 18px;
+}
+.image {
+  display: flex;
+  align-items: center;
+}
+.icarus {
+  width: 250px;
+  height: 200px;
+  margin: left 15px;
+}
